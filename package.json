@@ -16,8 +16,9 @@
     "mqtt": "^5.0.3",
     "mysql2": "^2.3.3",
     "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
     "sqlite3": "^5.1.6",
     "uuid-token-generator": "^1.0.0",
-    "ws": "^8.13.0"
+    "ws": "^8.14.2"
   }
 }
