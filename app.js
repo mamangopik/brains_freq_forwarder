@@ -46,7 +46,7 @@ const io = require('socket.io-client');
 const sockServer = process.env.SOCK_SERVER;
 const socket = io(sockServer);
 
-const sampling_duration = 600; //in second
+const sampling_duration = 30; //in second
 
 var storage = {
     x:[],
